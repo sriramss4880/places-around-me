@@ -197,8 +197,9 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 
 
 ## Client Output:
+![avadi](https://github.com/sriramss4880/places-around-me/assets/120554177/60afaf41-bf86-4c1d-8bbf-cf2032add91d)
+
 ![Screenshot (9)](https://github.com/sriramss4880/places-around-me/assets/120554177/f1f90976-d915-459a-aa15-9d7bcb6a40f9)
-![avadi](https://github.com/sriramss4880/places-around-me/assets/120554177/a39937e7-6a59-4943-89be-e6190fcf4149)
 ![Screenshot (6)](https://github.com/sriramss4880/places-around-me/assets/120554177/2201e645-58b1-421e-b333-e7ce67c6bcc8)
 ![Screenshot (7)](https://github.com/sriramss4880/places-around-me/assets/120554177/3b295da6-4c51-4979-b28c-791dd29b1073)
 ![Screenshot (8)](https://github.com/sriramss4880/places-around-me/assets/120554177/046ef221-12df-40c8-ada9-b81e45a1dce0)
